@@ -1,0 +1,252 @@
+		/* WEB PAGE DESIGN */
+* {
+	background-color: #EEEEEE;
+	font-family: ' Didact Gothic'; 
+	font-size: 16px;
+	font-weight: bold;
+	color: #868480;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+span {
+	font-family:'Grand Hotel';
+	color: #F884A5;
+}
+
+		/* NAVIGATION */
+
+nav {
+	background-color: #ECECEC;
+	height: 60px;
+	border-bottom-style: solid;
+	border-bottom-color: #92837E;
+}
+
+nav img .logo {
+	padding-top: 0px;
+}
+
+nav ul { 
+	float: right;
+	margin: 10px auto;
+}
+
+nav ul a li {
+	text-decoration: none;
+	list-style: none;
+	display: inline-block;
+	color:#92837E;
+	margin-left: 50px;
+}
+
+li:last-child {
+	margin-right: 0;
+}
+
+/* INTRO */
+
+.intro {
+	text-align: center;
+	margin-top:50px;
+}
+.intro h1 {
+	font-size: 24px;
+}
+
+.intro span{
+	font-size: 30px;
+	color: #F884A5;
+}
+
+.intro h4 {
+	font-weight: lighter;
+	margin-bottom: 50px;
+}
+
+ .intro img {
+	border-radius: 25px;
+	padding-right: 0;
+	background-color: transparent;
+	width: 1100px;
+}	
+
+	/* About me and my work */
+
+.about {
+	margin: 50px auto;
+	display: inline-block;
+}
+ 
+.aboutMe {
+	float: left;
+	margin-left: 20px;
+	padding-left: 30px;
+	padding-right:10px;
+}
+.aboutMe span {
+	margin-left: 200px;
+	font-size: 40px;
+	font-weight: bold;
+	color: #F884A5;
+}
+
+.aboutMe p {
+	font-size: 16px
+	font-weight: bold;
+}
+
+.myWork {
+	float: right;
+	margin-right: 20px;
+}
+
+.myWork span {
+	margin-left: 200px;
+	font-size: 40px;
+	font-weight: bold;
+	color: #F884A5;
+}
+
+.myWork p {
+	font-size: 16px;
+	font-weight: bold;
+	padding-right: 30px;
+}
+/* Photos */
+
+.photos {
+	width: 175px;
+	height: 250px;
+}
+
+.topRow {
+	margin-left: 50px;
+}
+.topRow a {
+	display: inline-block;
+	border-radius: 20px;
+	text-decoration: none;
+	margin: 25px;
+	box-shadow: 0 0 5px;
+	background-color: #fff;
+}
+.topRow a img {
+	border-radius: 20px 20px 0 0;
+	margin: 0px;
+}
+/* h4 & h5 */
+	h4 {
+		margin-top: 5px;
+		margin-bottom: 5px;
+		text-align: center;
+		color: #868480;
+		background-color: transparent;
+	}
+
+	h5 {
+		margin-top: 5px;
+		margin-bottom: 10px;
+		font-weight: normal;
+		font-family: 'Grand Hotel';
+		font-size: 16px;
+		text-align: center;
+		color: #F884A5; 
+		background-color: transparent;
+
+	}
+/* bottom row */
+
+.bottomRow {
+	margin-left: 50px;
+}
+
+.bottomRow a {
+	display: inline-block;
+	border-radius: 20px;
+	text-decoration: none;
+	margin: 25px;
+	box-shadow: 0 0 5px;
+	background-color: #fff;
+}
+
+.bottomRow a img {
+	border-radius: 20px 20px 0 0;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*thank you*/
+.thanks {
+	font-family: 'Grand Hotel';
+	font-size: 30px;
+	color: #F884A5;
+	margin: 0 auto;
+	padding-top: 50px; 
+}
+/*footer*/
+footer	{
+	background-color: #2D2D2D;
+	height: 350px;
+}
+footer h3 {
+	color: #fff;
+	background-color: transparent;
+	margin-left: 20px;
+	padding-top: 30px;
+}
+form {
+	background-color: transparent;
+	margin-top: 20px;
+	float: left;
+}
+form input {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	height: 25px;
+	width: 460px;
+	background-color: #fff;
+}
+textarea {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	background-color: #fff;
+}
+button {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	background-color: transparent;
+	border-style: none;
+	font-size: 15px;
+	color: #fff;
+}
+i {
+	float: right;
+	display: inline-block;
+	margin: 70px auto;
+	margin-right: 50px;
+	border-radius: 100%;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	padding: 5px;
+	background-color: #F884A5;
+	color: #fff;
+}
+.fa.fa-facebook {
+	font-size: 30px;
+}
+.fa.fa-twitter {
+	font-size: 30px;
+}
+.fa.fa-youtube {
+	font-size: 30px;
+}
+.fa.fa-google {
+	font-size: 30px;
+}
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
